@@ -1,10 +1,17 @@
+# Exclude all
 *
 
+# Include Project files
 !.gitignore
+!README.md
 
+# Include Packs
 !Peepo Plush Totem
 !Peepo Plush Totem/**/*
 !Skibidi Faister Totem
 !Skibidi Faister Totem/**/*
 !Domo Mace
 !Domo Mace/**/*
+
+# Exclude any zips
+*.zip
