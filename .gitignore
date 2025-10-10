@@ -14,6 +14,8 @@
 !Domo Mace/**/*
 !Oguri Totem
 !Oguri Totem/**/*
+!Basti Plush
+!Basti Plush/**/*
 
 # Exclude any zips
 *.zip
