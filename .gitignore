@@ -6,6 +6,8 @@
 !README.md
 
 # Include Packs
+!Better Spears
+!Better Spears/**/*
 !Peepo Plush Totem
 !Peepo Plush Totem/**/*
 !Skibidi Faister Totem
@@ -14,8 +16,6 @@
 !Domo Mace/**/*
 !Oguri Totem
 !Oguri Totem/**/*
-!Basti Plush
-!Basti Plush/**/*
 
 # Exclude any zips
 *.zip
