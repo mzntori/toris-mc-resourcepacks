@@ -1,7 +1,7 @@
 {
   "pack": {
-    "pack_format": 70,
-    "description": "Make your spears look less like a shovel :3",
-    "supported_formats": [70, 99]
+    "min_format": 70,
+    "max_format": 99,
+    "description": "Make your spears look less like a shovel :3"
   }
 }
